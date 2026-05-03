@@ -38,3 +38,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Role interaction and release procedures
+- Refer to docs/octoacme-role-interactions.md for role collaboration and escalation paths.
+- Use docs/octoacme-release-checklist.md for release readiness and post-deploy verification.
